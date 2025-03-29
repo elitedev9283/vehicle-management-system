@@ -1,7 +1,8 @@
 # Vehicle Management System
-![image](https://github.com/tmkhang1999/YOLOv8-DeepSORT-PaddleOCR-Supervision-Vehicle-Management-System/assets/74235084/9b90b252-9929-4b7c-ae64-efc33880975c)
+![Screenshot 2025-03-27 151605](https://github.com/user-attachments/assets/3e3a891c-f82d-4493-a36f-ab975049324d)
+![Screenshot 2025-03-27 151523](https://github.com/user-attachments/assets/e00432da-4a16-4faf-bcbe-bd2346ba0ac5)
+![v](https://github.com/user-attachments/assets/3ee788cb-bdd8-4860-af4e-182739720419)
 
-https://github.com/tmkhang1999/YOLOv8-DeepSORT-PaddleOCR-Supervision-Vehicle-Management-System/assets/74235084/4b8cd9f3-6de2-4060-848e-a12cfafd97b8
 
 ## Table of Contents
 1. [Motivation](#motivation)
